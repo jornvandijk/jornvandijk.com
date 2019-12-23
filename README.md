@@ -1,2 +1,2 @@
-# Jorn van Dijk
-Personal site
+# Personal site
+https://jornvandijk.com/
